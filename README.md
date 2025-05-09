@@ -150,7 +150,8 @@ algorithms, knowledgebase and AI technology.
 * [BeVigil](https://bevigil.com/search) - Search for assets like Subdomains, URLs, Parameters in mobile applications
 * [Biznar](http://biznar.com)
 * [CiteSeerX](http://citeseer.ist.psu.edu)
-* [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform 
+* [Criminal IP](https://www.criminalip.io/) - Cyber Threat Intelligence Search Engine and Attack Surface Management(ASM) platform
+* [CRT Certificate Search](https://crt.sh/) - Allows you to search for public SSL/TLS certificates recorded in Certificate Transparency logs
 * [Google Custom Search](http://www.google.com/cse)
 * [GrayhatWarfare](https://grayhatwarfare.com/)
 * [Harmari (Unified Listings Search)](https://www.harmari.com/search/unified)
